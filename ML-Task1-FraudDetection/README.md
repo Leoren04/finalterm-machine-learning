@@ -86,8 +86,8 @@ Input (N features)
 
 | Model | AUC-ROC | F1-Score | Precision | Recall |
 |-------|---------|----------|-----------|--------|
-| LightGBM | See notebook | - | - | - |
-| **MLP (DL)** | **See notebook** | - | - | - |
+| LightGBM | 0.9604 | 0.4930 | 0.3479 | 0.8456 |
+| **MLP (DL)** | 0.9186 | 0.3444 | 0.2212 | 0.7769 |
 
 ---
 
