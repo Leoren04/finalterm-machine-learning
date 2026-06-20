@@ -90,8 +90,8 @@ Input (90 features)
 
 | Model | RMSE (years) | MAE (years) | R² |
 |-------|-------------|-------------|-----|
-| LightGBM | See notebook | - | - |
-| **MLP (DL)** | **See notebook** | - | - |
+| LightGBM |  8.9169  | 6.2181 | 0.3401 |
+| **MLP (DL)** | 8.7274 | 6.0240 | 0.3679 |
 
 ---
 
